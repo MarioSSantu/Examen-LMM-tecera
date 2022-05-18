@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="3_tienda.xsl" type="text/xsl"?>
+
+
+<tienda>
+             
+    <title>Tienda Online</title>
+    <encabezado>Bienvenid@s a mi tienda</encabezado>
+    <descripcion>Esto es una tienda online que vende productos a través de internet</descripcion>
+             
+
+        <inventario>
+            
+            <producto>
+                <titulo>Comida</titulo>
+                <precio>10 euros</precio>
+                <descripcion>La mejor comida Asturiana</descripcion>
+                
+            </producto>
+
+             <producto>
+                <titulo>Rifles</titulo>
+                <precio>100000 euros</precio>
+                <descripcion>Los mejores rifles asturianos</descripcion>
+              
+            </producto>
+
+             <producto>
+                <titulo>Navajas de Taramundi</titulo>
+                <precio>5 euros</precio>
+                <descripcion>Las mejores navajas de Taramundi al mejor precio</descripcion>
+                
+            </producto>
+
+             <producto>
+                <titulo>Caballos</titulo>
+                <precio>2000-4000 euros</precio>
+                <descripcion>Asturcones de 4 a 10 años, robustos, perfectos para trabajo</descripcion>
+                
+            </producto>
+            
+        </inventario>
+
+</tienda>
+
+
+
